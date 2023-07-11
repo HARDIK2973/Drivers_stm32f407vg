@@ -1,2 +1,2 @@
 # Drivers_stm32f407vg
-Developed drivers like for GPIO, SPI, I2C and for ds1307 with lcd 16 * 2 for STM32F407VG Discovery board which is based on ARM Cortex M4 based Microcontroller.  
+Successfully designed and implemented drivers for communication protocols (SPI, I2C, UART) and GPIO on the STM32F407VG Discovery board, simplifying the usage of these protocols for end-users without prior microcontroller expertise. Utilized C programming language to create user-friendly functions.﻿
